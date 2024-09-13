@@ -1,0 +1,1 @@
+For compiling this sketch you need to download the [Nexa Transmitter](https://github.com/erix/NexaTransmitter) library. This features dimmer level handling. I found this to work better than the original remotes where you have to press multiple times while the light is dimming up and down in order to set the dim level.
